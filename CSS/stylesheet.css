@@ -1,0 +1,13 @@
+img{
+    width: 30%;
+  }
+  h2{
+    color:blue;
+    font-family: baskerville;
+    font-size: 20pt;
+    text-transform: capitalize;
+  }
+  p{
+    font-family: sans-serif;
+    font-size: 14pt;
+  }
